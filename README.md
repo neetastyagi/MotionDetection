@@ -1,4 +1,4 @@
-## Problem Set 4: Motion Detection
+## Motion Detection
 
 ### Description
 
