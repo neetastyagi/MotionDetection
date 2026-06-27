@@ -1,4 +1,4 @@
-# Motion Detection (Problem Set 4)
+# Motion Detection 
 
 ## Description
 
@@ -46,10 +46,3 @@ Adjust commands to match the exact filenames in this repository.
 
 Input data (image sequences or videos used by the assignment) is NOT included in this repository. The data files referenced by the assignment are stored separately (for example on the course Google Drive or assignment page). To run the code you must provide your own input files and place them in a folder named `data/` (or update script arguments to point to your data location).
 
-## References
-
-See the assignment Google Doc and Piazza post for problem details and input data links.
-
-## License / Attribution
-
-This repository contains student assignment code. Check with the course/instructor for reuse and redistribution permissions.
